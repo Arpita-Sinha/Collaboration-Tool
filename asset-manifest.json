@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Collaboration-Tool/static/css/main.79d19d76.css",
+    "main.js": "/Collaboration-Tool/static/js/main.e27850b1.js",
+    "index.html": "/Collaboration-Tool/index.html",
+    "main.79d19d76.css.map": "/Collaboration-Tool/static/css/main.79d19d76.css.map",
+    "main.e27850b1.js.map": "/Collaboration-Tool/static/js/main.e27850b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.e27850b1.js"
+  ]
+}
